@@ -1,0 +1,18 @@
+GetNewFactIntent a fact
+GetNewFactIntent a happy fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a happy fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a happy fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a happy trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a happy trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some happy information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent for a fact
+GetNewFactIntent to give me a happy fact
+GetNewFactIntent to give me something
+GetNewFactIntent for another fact
